@@ -1,0 +1,16 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "description": "Automated tests for todo-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "superagent": "^4.0.0-beta.5"
+  }
+}
